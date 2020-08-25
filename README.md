@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ckemill.com&style=for-the-badge&url=https://ckemill.com)](https://ckemill.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ckemill?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCkemill&screen_name=Ckemill)
 
-## Soy un estudiante, con deseo de desarrolar software util.
+## Soy un estudiante, con deseo de desarrolar software útil.
 
 - 🔭 Actualmente trabajando en un bot para Discord -> ¡[Perritu][bot]!
 - 🌱 Actualmente aprendiendo todo. 🤣
@@ -40,7 +40,7 @@
 <img align="left" alt="Estadisticas GitHub Ckemill" src="https://github-readme-stats.ckemill.vercel.app/api?username=Ckemill&show_icons=true&hide_border=true" />
 
 [website]: https://ckemill.com
-[bot]: http://www.perritu.com
+[bot]: http://www.perritu.net
 [twitter]: https://twitter.com/Ckemill
 [youtube]: https://youtube.com/kemill
 [instagram]: https://instagram.com/Ckemill
