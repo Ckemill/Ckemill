@@ -6,11 +6,12 @@
 
 - 🔭 Actualmente trabajando en un bot para Discord -> ¡[Perritu][bot]!
 - 🌱 Actualmente aprendiendo todo.
-- 🏁 Metas para el 2021: Tener un portafolio.
+- 🏁 Metas para el 2024: Tener un portafolio.
 - 🕹 Amante de los video juegos.
 
 ### Contacta conmigo:
 
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -27,7 +28,7 @@
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-
+[gmail]: mailto:ckemill@gmail.com
 [website]: https://ckemill.com
 [bot]: http://www.perritu.com
 [twitter]: https://twitter.com/Ckemill
